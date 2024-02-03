@@ -37,7 +37,7 @@ class products{
     }
 }
 
-const product1=new products('c21 PLUS','100 $','Mobile','images/c21 PLUS.jpg',1);
+const product1=new products('c21 PLUS','100 $','Mobile','images/C21 PLUS.jpg',1);
 const product2=new products('HP d1011ne-16','250 $','Laptop ','images/hp d1011ne-16.jpg',2);
 const product3=new products('ROWA android tv','400 $','Tv','images/ROWA android tv.jpg',3);
 const product4=new products('Honor X7','150 $','Mobile','images/Honor X7.jpg',4);
